@@ -13,5 +13,5 @@ tab: open terminal
  item available: pot, torch, table, stove, dancer, gramophone  
    ex) get pot (click to place pot)  
   
-* "python swordman.py" to execute  
+* run 'launch.bat' or "python main.py" to execute 
 * Requirement: python, pygame module  
